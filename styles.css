@@ -1,0 +1,23 @@
+body{
+background-color: #F4DF4EFF;width: 1000px;margin:auto
+}
+header{
+background-color: #949398FF;height: 80px;width: 100%;position:fixed;top:0;left:0;right:0;text-align:center;vertical-align: text-middle;
+}
+h1{
+font-size: 40px;font-weight: bold;color: #F4DF4EFF; margin-top: 20px;
+text-align: center
+}
+footer{
+background-color: #949398FF;height: 60px;width: 100%;position: fixed;bottom: 0;left: 0;right: 0;
+}
+h6{
+font-size: 20px;font-weight: bold;color: #F4DF4EFF;margin-top: 5px;text-align: center;
+}
+
+#artistName{
+    
+    
+    
+    
+}
